@@ -36,11 +36,7 @@ The provided SQL queries perform various analyses on the layoffs data, including
 3. **Run the Queries:**
    - Execute the SQL queries provided in the repository to perform the analyses.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any questions or further information, please contact [Your Name] at [Your Email].
+For any questions or further information, please contact [Mohamed Alaa] at [muhammedalaa1412@gmail.com].
 
